@@ -1,0 +1,178 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//PVJH 7th Grade Girls Basketball//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PVJH 7th Grade Girls Basketball 2026-2027
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:ad4f84b3-dbdd-469a-b942-3426a2add5d6@pvjh-basketball
+DTSTAMP:20261111T164723Z
+DTSTART;TZID=America/Chicago:20261109T180000
+DTEND;TZID=America/Chicago:20261109T190000
+SUMMARY:7th Grade Girls Basketball — CVC vs Lone Grove
+LOCATION:Purcell High School Gym\, Purcell\, Oklahoma
+DESCRIPTION:CVC tournament. Pauls Valley (#8) vs Lone Grove (#5). 7th grade plays first\; 60-minute game slot.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7b777bc0-6035-4e92-8a56-b516874acb08@pvjh-basketball
+DTSTAMP:20261111T164723Z
+DTSTART;TZID=America/Chicago:20261110T160000
+DTEND;TZID=America/Chicago:20261110T170000
+SUMMARY:7th Grade Girls Basketball — CVC vs Bridge Creek
+LOCATION:Purcell Junior High Gym\, Purcell\, Oklahoma
+DESCRIPTION:CVC tournament. Pauls Valley (#8) vs Bridge Creek (#7). 7th grade plays first\; 60-minute game slot.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aac3d0f3-4981-47bd-9ef1-9abe5bf0d3ff@pvjh-basketball
+DTSTAMP:20261111T164723Z
+DTSTART;TZID=America/Chicago:20261116T163000
+DTEND;TZID=America/Chicago:20261116T180000
+SUMMARY:7th Grade Girls Basketball — Plainview
+LOCATION:Plainview\, Oklahoma
+DESCRIPTION:Away game. Original schedule lists Boys @ Home\, which means girls are away. Opponent grade range listed as 6–9\; confirm 7th-grade participation.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6853e744-724f-4c79-adfb-d062155657a3@pvjh-basketball
+DTSTAMP:20261111T164723Z
+DTSTART;TZID=America/Chicago:20261117T163000
+DTEND;TZID=America/Chicago:20261117T180000
+SUMMARY:7th Grade Girls Basketball — Lindsay
+LOCATION:Pauls Valley Junior High\, Pauls Valley\, Oklahoma
+DESCRIPTION:Home game. Original schedule lists Girls @ Home. Opponent grade range listed as 6–9\; confirm 7th-grade participation.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eff1fb66-3bd2-4532-ac4d-6af059d3bdf3@pvjh-basketball
+DTSTAMP:20261111T164723Z
+DTSTART;TZID=America/Chicago:20261119T170000
+DTEND;TZID=America/Chicago:20261119T183000
+SUMMARY:7th Grade Girls Basketball — Sulphur
+LOCATION:Sulphur\, Oklahoma
+DESCRIPTION:Away game. Original schedule lists Boys @ Home\, which means girls are away. Opponent grade range listed as 7–9.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a01ea590-9234-4e0f-8e83-a5e858da0112@pvjh-basketball
+DTSTAMP:20261111T164723Z
+DTSTART;TZID=America/Chicago:20261130T170000
+DTEND;TZID=America/Chicago:20261130T183000
+SUMMARY:7th Grade Girls Basketball — Ada
+LOCATION:Pauls Valley Junior High\, Pauls Valley\, Oklahoma
+DESCRIPTION:Home game. Original schedule lists Girls @ Home. Opponent grade range listed as 7–9.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:35d0a7cb-71c9-447b-b0f4-ad352b2a57c5@pvjh-basketball
+DTSTAMP:20261111T164723Z
+DTSTART;TZID=America/Chicago:20261207T163000
+DTEND;TZID=America/Chicago:20261207T180000
+SUMMARY:7th Grade Girls Basketball — Lone Grove
+LOCATION:Pauls Valley Junior High\, Pauls Valley\, Oklahoma
+DESCRIPTION:Home game. Original schedule lists Girls @ Home. Opponent grade range listed as 6–9\; confirm 7th-grade participation.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:33393692-2250-4be1-b9d8-10368b8e31ed@pvjh-basketball
+DTSTAMP:20261111T164723Z
+DTSTART;TZID=America/Chicago:20261214T170000
+DTEND;TZID=America/Chicago:20261214T183000
+SUMMARY:7th Grade Girls Basketball — Vanoss
+LOCATION:Vanoss\, Oklahoma
+DESCRIPTION:Away game. Schedule lists Vanoss (7–8)\; confirm girls' participation.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:be9fafef-51b8-4a1b-9100-ba2193900067@pvjh-basketball
+DTSTAMP:20261111T164723Z
+DTSTART;TZID=America/Chicago:20261217T163000
+DTEND;TZID=America/Chicago:20261217T180000
+SUMMARY:7th Grade Girls Basketball — Lindsay
+LOCATION:Lindsay\, Oklahoma
+DESCRIPTION:Away game. Original schedule lists Boys @ Home\, which means girls are away. Opponent grade range listed as 6–9\; confirm 7th-grade participation.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1da67a10-aaa5-46a5-9851-0965fa191728@pvjh-basketball
+DTSTAMP:20261111T164723Z
+DTSTART;TZID=America/Chicago:20270104T170000
+DTEND;TZID=America/Chicago:20270104T183000
+SUMMARY:7th Grade Girls Basketball — Sulphur
+LOCATION:Pauls Valley Junior High\, Pauls Valley\, Oklahoma
+DESCRIPTION:Home game. Original schedule lists Girls @ Home. Opponent grade range listed as 7–9.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:912ac633-db0f-4df0-9560-ca56ab17a51e@pvjh-basketball
+DTSTAMP:20261111T164723Z
+DTSTART;TZID=America/Chicago:20270114T163000
+DTEND;TZID=America/Chicago:20270114T180000
+SUMMARY:7th Grade Girls Basketball — Lone Grove
+LOCATION:Lone Grove\, Oklahoma
+DESCRIPTION:Away game. Original schedule lists Boys @ Home\, which means girls are away. Opponent grade range listed as 6–9\; confirm 7th-grade participation.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:923238bf-0206-4d4f-bd54-7a0e97ef6196@pvjh-basketball
+DTSTAMP:20261111T164723Z
+DTSTART;TZID=America/Chicago:20270118T170000
+DTEND;TZID=America/Chicago:20270118T183000
+SUMMARY:7th Grade Girls Basketball — Washington
+LOCATION:Washington\, Oklahoma
+DESCRIPTION:Away game. Original schedule lists Boys @ Home\, which means girls are away. Opponent grade range listed as 7–9.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1e71858-3dca-4790-b43f-a62b0c3b8f4d@pvjh-basketball
+DTSTAMP:20261111T164723Z
+DTSTART;TZID=America/Chicago:20270125T163000
+DTEND;TZID=America/Chicago:20270125T180000
+SUMMARY:7th Grade Girls Basketball — Plainview
+LOCATION:Pauls Valley Junior High\, Pauls Valley\, Oklahoma
+DESCRIPTION:Home game. Original schedule lists Girls @ Home. Opponent grade range listed as 6–9\; confirm 7th-grade participation. Potential overlap with Ada 7th Grade Tournament.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:85438bfd-22dd-418f-9c36-58a44cee806b@pvjh-basketball
+DTSTAMP:20261111T164723Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270128
+SUMMARY:7th Grade Girls Basketball — Ada 7th Grade Tournament
+LOCATION:Ada\, Oklahoma
+DESCRIPTION:All-day multi-day tournament event spanning January 25–27. Schedule time TBD.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:49bfc1f4-47d8-4f45-b1bf-699a829684b6@pvjh-basketball
+DTSTAMP:20261111T164723Z
+DTSTART;TZID=America/Chicago:20270128T170000
+DTEND;TZID=America/Chicago:20270128T183000
+SUMMARY:7th Grade Girls Basketball — Marlow
+LOCATION:Pauls Valley Junior High\, Pauls Valley\, Oklahoma
+DESCRIPTION:Home game. Original schedule lists Girls @ Home. Opponent grade range listed as 7–9.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dbb6b59b-1d28-4bc5-8a56-ee686edc8bee@pvjh-basketball
+DTSTAMP:20261111T164723Z
+DTSTART;TZID=America/Chicago:20270201T170000
+DTEND;TZID=America/Chicago:20270201T183000
+SUMMARY:7th Grade Girls Basketball — Purcell
+LOCATION:Purcell\, Oklahoma
+DESCRIPTION:Away game. Original schedule lists Boys @ Home\, which means girls are away. Opponent grade range listed as 7–9.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:be4a616e-117c-4245-8e41-2469959c3030@pvjh-basketball
+DTSTAMP:20261111T164723Z
+DTSTART;TZID=America/Chicago:20270204T170000
+DTEND;TZID=America/Chicago:20270204T183000
+SUMMARY:7th Grade Girls Basketball — Marlow
+LOCATION:Marlow\, Oklahoma
+DESCRIPTION:Away game. Original schedule lists Boys @ Home\, which means girls are away. Opponent grade range listed as 7–9.
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
