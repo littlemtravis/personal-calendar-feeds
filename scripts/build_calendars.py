@@ -59,9 +59,9 @@ def build(category, output):
                 seen.add(key)
                 events.append(event)
     events.sort(key=event_sort_key)
-    label = "Pauls Valley Public Schools — All School Events" if category == "school" else "Pauls Valley Schools — All Sports"
+    label = "School Events" if category == "school" else "School Sports"
     lines = ["BEGIN:VCALENDAR", "VERSION:2.0",
-             "PRODID:-//Personal Calendar Feeds//Pauls Valley Combined Calendars//EN",
+             "PRODID:-//Personal Calendar Feeds//Combined School Calendars//EN",
              "CALSCALE:GREGORIAN", "METHOD:PUBLISH", f"X-WR-CALNAME:{label}",
              "X-WR-TIMEZONE:America/Chicago"]
     for tzid in sorted(zones): lines.extend(zones[tzid])
