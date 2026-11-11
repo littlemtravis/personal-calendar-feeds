@@ -1,0 +1,40 @@
+name: Build combined school calendars
+
+on:
+  push:
+    paths:
+      - "school-years/**/*.ics"
+      - "scripts/build_calendars.py"
+      - ".github/workflows/build-calendars.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-combined-calendars
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Generate combined calendars
+        run: python scripts/build_calendars.py
+      - name: Commit generated feeds
+        run: |
+          if [[ -n "$(git status --porcelain combined/)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add combined/*.ics
+            git commit -m "Regenerate combined school and sports calendars"
+            git push
+          else
+            echo "Combined calendars are already up to date."
+          fi
