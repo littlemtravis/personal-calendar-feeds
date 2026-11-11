@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Personal Calendar Feeds//Pauls Valley Combined Calendars//EN
+PRODID:-//Personal Calendar Feeds//Combined School Calendars//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Pauls Valley Schools — All Sports
+X-WR-CALNAME:School Sports
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
 UID:ad4f84b3-dbdd-469a-b942-3426a2add5d6@pvjh-basketball

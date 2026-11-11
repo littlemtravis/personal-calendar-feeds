@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Personal Calendar Feeds//Pauls Valley Combined Calendars//EN
+PRODID:-//Personal Calendar Feeds//Combined School Calendars//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Pauls Valley Public Schools — All School Events
+X-WR-CALNAME:School Events
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260810
